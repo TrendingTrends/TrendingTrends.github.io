@@ -38,5 +38,9 @@ h1 {
 #FloorIsLava {
   padding: 50px;
   font-family: "Times";
-  color: Black;[]
+  color: Black;
+}
+
+div {
+    display: inline-block;
 }
